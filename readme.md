@@ -33,7 +33,7 @@ This project consumes the **Rick and Morty API** to display characters, supports
 * 🎨 **Dynamic UI theming** using Palette API
 * 🧠 **Unidirectional state management** with StateFlow
 * 🧪 **UI-ready architecture** (easy to test)
-* 🧪 **Github Action for building apke**
+* 🧪 **Github Action for building apk**
 
 ---
 
