@@ -11,8 +11,8 @@ This project consumes the **Rick and Morty API** to display characters, supports
 ### Screenshots
 
 <p align="center">
-  <img src="assets/images1.png" width="40%" />
-  <img src="assets/images2.png" width="40%" />
+  <img alt="Screenshot" src="assets/images1.png" width="40%" />
+  <img alt="Screenshot" src="assets/images2.png" width="40%" />
 </p>
 
 ### Demo Video
@@ -20,6 +20,8 @@ This project consumes the **Rick and Morty API** to display characters, supports
 > 🎥  watch the shared element transition in action
 
 ![Preview](assets/video.gif)
+### Download Preview
+[![Download the demo]](https://github.com/TuleSimon/rick_and_morty_android_simon/blob/main/assets/video.gif)
 
 ---
 
@@ -31,6 +33,7 @@ This project consumes the **Rick and Morty API** to display characters, supports
 * 🎨 **Dynamic UI theming** using Palette API
 * 🧠 **Unidirectional state management** with StateFlow
 * 🧪 **UI-ready architecture** (easy to test)
+* 🧪 **Github Action for building apke**
 
 ---
 
