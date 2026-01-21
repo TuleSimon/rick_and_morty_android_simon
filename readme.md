@@ -11,15 +11,15 @@ This project consumes the **Rick and Morty API** to display characters, supports
 ### Screenshots
 
 <p align="center">
-  <img src="docs/images/images1.png" width="40%" />
-  <img src="docs/images/images2.png" width="40%" />
+  <img src="assets/images1.png" width="40%" />
+  <img src="assets/images2.png" width="40%" />
 </p>
 
 ### Demo Video
 
 > 🎥  watch the shared element transition in action
 
-![Preview](screenshots/video.gif)
+![Preview](assets/video.gif)
 
 ---
 
